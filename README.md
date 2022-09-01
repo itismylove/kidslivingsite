@@ -19,12 +19,6 @@ We have extensive Shopify experience and have developed ecommerce stores and sol
 
 This proejct requires Node.js `v16+`. Run `yarn install` or `npm install` and `yarn dev` or `npm run dev` to start developing locally.
 
-## Author
-
-- [@FelixTellmann](https://github.com/FelixTellmann)
-- [LunaLemon](https://lunalemon.dev/)
-
-
 ## License
 
 Copyright 2022 @ Lunalemon.dev - All rights reserved.
